@@ -116,14 +116,14 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);font-size:14
 <header class="header">
   <div class="header-top">
     <div class="logo-wrap">
-      <img class="logo-img" src="newheader-brand-desktop.png" alt="Drogaria Globo"
+      <img class="logo-img" src="https://drogariaglobo.vtexassets.com/arquivos/newheader-brand-desktop.png" alt="Drogaria Globo"
         onerror="this.style.display='none';document.getElementById('lf').style.display='flex'">
       <div id="lf" style="display:none;align-items:center;gap:3px;">
         <span style="font-size:22px;font-weight:900;color:#1479BD;">GL<span style="color:#F74141">&#9679;</span>BO</span>
         <div style="font-size:9px;font-weight:700;color:#1479BD;letter-spacing:0.12em;text-transform:uppercase;">DROGARIA</div>
       </div>
       <div class="logo-divider"></div>
-      <div><div class="logo-module">Manutenção</div><div class="logo-report">Painel de Chamados</div></div>
+      <div><div class="logo-report" style="color:var(--text3);text-transform:uppercase;">Chamados Manutenção</div></div>
     </div>
     <div class="tag"><span style="width:6px;height:6px;border-radius:50%;background:var(--blue);display:inline-block;"></span>Gerado em 28/05/2026</div>
   </div>
